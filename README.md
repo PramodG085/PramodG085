@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @PramodG085
+- 👋 Hi, 
+         Pramod here , 😉
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning  Full stack web development
+- 🧑‍💻 I’m currently learning  Full stack web development
 
 
 <!---
